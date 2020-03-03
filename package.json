@@ -1,0 +1,50 @@
+{
+  "name": "FSN-desafio-javascript-I",
+  "version": "1.0.0",
+  "description": "- Tema: Sistema escolar  - Tecnologia: Javascript",
+  "main": "index.js",
+  "dependencies": {
+    "bytes": "^3.1.0",
+    "content-type": "^1.0.4",
+    "debug": "^2.6.9",
+    "depd": "^1.1.2",
+    "ee-first": "^1.1.1",
+    "encodeurl": "^1.0.2",
+    "escape-html": "^1.0.3",
+    "forwarded": "^0.1.2",
+    "etag": "^1.8.1",
+    "fresh": "^0.5.2",
+    "http-errors": "^1.7.2",
+    "iconv-lite": "^0.4.24",
+    "inherits": "^2.0.3",
+    "ipaddr.js": "^1.9.1",
+    "media-typer": "^0.3.0",
+    "ms": "^2.0.0",
+    "negotiator": "^0.6.2",
+    "on-finished": "^2.3.0",
+    "parseurl": "^1.3.3",
+    "qs": "^6.7.0",
+    "range-parser": "^1.2.1",
+    "readline-sync": "^1.4.10",
+    "safe-buffer": "^5.1.2",
+    "setprototypeof": "^1.1.1",
+    "safer-buffer": "^2.1.2",
+    "statuses": "^1.5.0",
+    "toidentifier": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EudesJS/FSN-desafio-javascript-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EudesJS/FSN-desafio-javascript-I/issues"
+  },
+  "homepage": "https://github.com/EudesJS/FSN-desafio-javascript-I#readme"
+}
